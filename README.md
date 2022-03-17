@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @n8petersen
-- 📚 I’m a student studying Information Technology at BYU.
+- 📚 I’m a student studying Information Technology at BYU
 - 🌱 I am currently learning C++, Python, Java, HTML/CSS and JavaScript
-- 👀 I haven't entirely decided what I want to do for a career, but I am looking at CyberSecurity, DevOps, or Game Development.
+- 👀  I am looking at CyberSecurity, DevOps, or Game Development for my career
 - 📫 You can reach me by email at n8knows@gmail.com
