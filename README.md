@@ -1,4 +1,4 @@
-##👋 Hi, I’m @n8petersen
+👋 Hi, I’m @n8petersen
 - 📚 Student studying Information Technology at BYU
 - 📜 I am proficient in PowerShell Scripting
 - 🧠 Can code in C++, C#, Python, JavaScipt, and PHP
