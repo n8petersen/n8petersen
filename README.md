@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @n8petersen
-- 📚 I’m a student studying Information Technology at BYU
-- 🌱 I am currently learning C++, Python, Java, HTML/CSS and JavaScript
-- ⚒️ I am currently working as a DevOps Engineer
+- 📚 Student studying Information Technology at BYU
+- 📜 I am proficient in PowerShell Scripting
+- 🧠 Can code in C++, C#, Python, JavaScipt, and PHP
+- 🌱 Currently learning C++, Python, Java, HTML/CSS and JavaScript
+- ⚒️ Working as a DevOps Engineer
 - 📫 You can reach me by email at n8knows@gmail.com
