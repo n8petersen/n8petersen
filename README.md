@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @n8petersen
 - 📚 Student studying Information Technology at BYU, with minors in Russian and Computer Science
-- 🧠 Can code in C, C++, Python, JavaScipt+HTML+CSS, NodeJS, React, Vue, and PHP
+- 🧠 Can code in C, C++, Python, JavaScript+HTML+CSS, NodeJS, React, Vue, and PHP
 - 🌱 Currently learning C#, and Java
 - 📜 Proficient with Bash and PowerShell
 - 📈 Proficient with SQL, MongoDB
