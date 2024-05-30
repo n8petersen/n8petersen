@@ -7,4 +7,5 @@
 - 📈 Proficient with SQL, MongoDB
 - <img src="https://www.svgrepo.com/show/373458/aws.svg" style="width: 22px;"> AWS Certified Solutions Architect - Associate
 - ⚒️ Working as a DevOps Engineer
+- 🌐 Check out my website at [n8pete.com](https://n8pete.com)
 - 📫 You can reach me by email at contact@n8pete.com
