@@ -1,11 +1,14 @@
 ## 👋 Hi, I’m @n8petersen
-- 🧑‍💻 DevOps | Systems Engineer | Home Labber
+### About Me
+- 🧑‍💻 SRE | DevOps | Systems Engineer | Home Labber
+- ⚒️ Working as an SRE
 - 📚 Bachelor's in Information Technology from BYU, with minors in Russian and Computer Science
-- 🧠 Can code in C, C++, Python, JavaScript+HTML+CSS, NodeJS, React, Vue, and PHP
-- 🌱 Currently learning C#, and Java
-- 📜 Proficient with Bash and PowerShell
-- 📈 Proficient with SQL, MongoDB
-- <img src="https://www.svgrepo.com/show/373458/aws.svg" style="width: 22px;"> AWS Certified Solutions Architect - Associate
-- ⚒️ Working as a DevOps Engineer
+- 🧠 C, C++, Java, Python, JavaScript/HTML/CSS, React, Vue, and PHP
+- 🌱 Currently learning C#, and Go
+- ☁️ AWS Certified Solutions Architect - Associate
+
+### Links
+- 👔 View my resume at [resume.n8pete.com](https://resume.n8pete.com)
 - 🌐 Check out my website at [n8pete.com](https://n8pete.com)
-- 📫 You can reach me by email at contact@n8pete.com
+- 📫 You can reach me by email at [contact@n8pete.com](mailto:contact@n8pete.com)
+- 💻 Be sure to checkout by [GitLab](https://github.com/n8petersen) profile as well!
