@@ -11,4 +11,4 @@
 - 👔 View my resume at [resume.n8pete.com](https://resume.n8pete.com)
 - 🌐 Check out my website at [n8pete.com](https://n8pete.com)
 - 📫 You can reach me by email at [contact@n8pete.com](mailto:contact@n8pete.com)
-- 💻 Be sure to checkout by [GitLab](https://gitlab.com/n8petersen) profile as well!
+- 💻 Be sure to checkout my [GitLab](https://gitlab.com/n8petersen) profile as well!
