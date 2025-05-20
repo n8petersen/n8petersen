@@ -9,5 +9,5 @@
 
 ### Links
 - 🌐 Check out my website at [n8pete.com](https://n8pete.com)
-- 👔 View my resume at [resume.n8pete.com](https://n8pete.com/resume.pdf)
+- 👔 View my resume at [n8pete.com/resume.pdf](https://n8pete.com/resume.pdf)
 - 📫 You can reach me by email at [contact@n8pete.com](mailto:contact@n8pete.com)
